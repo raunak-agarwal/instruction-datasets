@@ -10,4 +10,5 @@ All available datasets for Instruction Tuning of Large Language Models
 - AlpacaGPT3.5Customized: https://huggingface.co/datasets/whitefox44/AlpacaGPT3.5Customized
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
 - OIG: https://huggingface.co/datasets/laion/OIG (super set of some of the datasets above)
+- GPT4All: https://github.com/nomic-ai/gpt4all
 
