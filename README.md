@@ -20,6 +20,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - GPT4All: https://github.com/nomic-ai/gpt4all
 - ShareGPT: https://huggingface.co/datasets/RyokoAI/ShareGPT52K
 - GPTeacher: https://github.com/teknium1/GPTeacher
+- CAMEL🐪: https://www.camel-ai.org/
 
 ### Misc
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
