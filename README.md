@@ -1,7 +1,7 @@
 # Instruction Tuning Datasets
 All available datasets for Instruction Tuning of Large Language Models
 
-### Multi-task tuning
+### Gold standard datasets (Originally meant for multi-task tuning)
 - P3: https://github.com/bigscience-workshop/promptsource, https://huggingface.co/datasets/bigscience/P3
 - Natural Instructions v2: https://github.com/allenai/natural-instructions
 - The Flan Collection: https://github.com/google-research/FLAN/tree/main/flan/v2 (super set of some of the datasets here)
