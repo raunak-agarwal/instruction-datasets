@@ -3,8 +3,13 @@ All available datasets for Instruction Tuning of Large Language Models
 
 ### Gold standard datasets (Originally meant for multi-task tuning)
 - P3: https://github.com/bigscience-workshop/promptsource, https://huggingface.co/datasets/bigscience/P3
+  - Collection of prompted English datasets covering a diverse set of NLP tasks
+  - 2000 prompt types over 270 datasets
 - Natural Instructions v2: https://github.com/allenai/natural-instructions
-- The Flan Collection: https://github.com/google-research/FLAN/tree/main/flan/v2 (super set of some of the datasets here)
+  - A benchmark of 1,616 diverse NLP tasks and their expert-written instructions, covering 76 distinct task types and 55 different languages.
+- The Flan Collection: https://github.com/google-research/FLAN/tree/main/flan/v2 
+  - superset of some of the datasets here
+  -  1836 Tasks, 15m examples 
 - CrossFit: https://github.com/INK-USC/CrossFit
 - ExMix: https://arxiv.org/abs/2111.10952
 
