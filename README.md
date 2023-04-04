@@ -7,7 +7,6 @@ All available datasets for Instruction Tuning of Large Language Models
 - The Flan Collection: https://github.com/google-research/FLAN/tree/main/flan/v2 (super set of some of the datasets here)
 - CrossFit: https://github.com/INK-USC/CrossFit
 - ExMix: https://arxiv.org/abs/2111.10952
-- HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
 
 
 
@@ -26,6 +25,6 @@ All available datasets for Instruction Tuning of Large Language Models
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG (super set of some of the datasets here)
-
+- HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
 
 
