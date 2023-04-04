@@ -7,6 +7,8 @@ All available datasets for Instruction Tuning of Large Language Models
 - The Flan Collection: https://github.com/google-research/FLAN/tree/main/flan/v2 (super set of some of the datasets here)
 - CrossFit: https://github.com/INK-USC/CrossFit
 - ExMix: https://arxiv.org/abs/2111.10952
+- HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
+
 
 
 ### Generated using GPT 3.5/4
@@ -20,9 +22,9 @@ All available datasets for Instruction Tuning of Large Language Models
 - ShareGPT: https://huggingface.co/datasets/RyokoAI/ShareGPT52K
 - GPTeacher: https://github.com/teknium1/GPTeacher
 - CAMEL🐪: https://www.camel-ai.org/
+- InstructionWild: https://github.com/XueFuzhao/InstructionWild
 
 ### Misc
-- HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
 - OIG: https://huggingface.co/datasets/laion/OIG (super set of some of the datasets here)
 
 
