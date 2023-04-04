@@ -21,10 +21,13 @@ All available datasets for Instruction Tuning of Large Language Models
 - ShareGPT: https://huggingface.co/datasets/RyokoAI/ShareGPT52K
 - GPTeacher: https://github.com/teknium1/GPTeacher
 - CAMEL🐪: https://www.camel-ai.org/
+- Human ChatGPT Comparison Corpus: https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 - InstructionWild: https://github.com/XueFuzhao/InstructionWild
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG (super set of some of the datasets here)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
+- OpenAI WebGPT: https://huggingface.co/datasets/openai/webgpt_comparisons
+- OpenAI Summarizations: https://huggingface.co/datasets/openai/summarize_from_feedback
 
 
