@@ -20,9 +20,10 @@ All available datasets for Instruction Tuning of Large Language Models
 - Self-Instruct: https://github.com/yizhongw/self-instruct
 - Unnatural Instructions: https://github.com/orhonovich/unnatural-instructions
 - Alpaca: https://huggingface.co/datasets/tatsu-lab/alpaca
-- Alpaca-Clean: https://github.com/gururise/AlpacaDataCleaned
+  - Alpaca-Clean: https://github.com/gururise/AlpacaDataCleaned
 - AlpacaGPT3.5Customized: https://huggingface.co/datasets/whitefox44/AlpacaGPT3.5Customized
 - GPT4All: https://github.com/nomic-ai/gpt4all
+  - GPT4All-pruned: https://huggingface.co/datasets/Nebulous/gpt4all_pruned
 - ShareGPT: https://huggingface.co/datasets/RyokoAI/ShareGPT52K
 - GPTeacher: https://github.com/teknium1/GPTeacher
 - CAMEL🐪: https://www.camel-ai.org/
