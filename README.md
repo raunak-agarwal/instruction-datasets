@@ -11,6 +11,7 @@ All available datasets for Instruction Tuning of Large Language Models
   - superset of some of the datasets here
   -  1836 Tasks, 15m examples 
 - CrossFit: https://github.com/INK-USC/CrossFit
+- tasksource: https://arxiv.org/abs/2301.05948
 - ExMix: https://arxiv.org/abs/2111.10952
 
 
