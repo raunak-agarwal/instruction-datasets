@@ -33,6 +33,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - Human ChatGPT Comparison Corpus: https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 - InstructionWild: https://github.com/XueFuzhao/InstructionWild
 - Instruction Tuning with GPT-4: https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
+- Guanaco: https://huggingface.co/datasets/JosephusCheung/GuanacoDataset
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG
