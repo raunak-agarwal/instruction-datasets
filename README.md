@@ -5,6 +5,8 @@ All available datasets for Instruction Tuning of Large Language Models
 - P3: https://github.com/bigscience-workshop/promptsource, https://huggingface.co/datasets/bigscience/P3
   - Collection of prompted English datasets covering a diverse set of NLP tasks
   - 2000 prompt types over 270 datasets
+- xP3: https://huggingface.co/datasets/bigscience/xP3mt
+  - Mixture of 13 training tasks in 46 languages with prompts in 20 languages (machine-translated from English)
 - Natural Instructions v2: https://github.com/allenai/natural-instructions
   - A benchmark of 1,616 diverse NLP tasks and their expert-written instructions, covering 76 distinct task types and 55 different languages.
 - The Flan Collection: https://github.com/google-research/FLAN/tree/main/flan/v2 
