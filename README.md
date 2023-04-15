@@ -12,7 +12,11 @@ All available datasets for Instruction Tuning of Large Language Models
 - The Flan Collection: https://github.com/google-research/FLAN/tree/main/flan/v2 
   - superset of some of the datasets here
   -  1836 Tasks, 15m examples 
+- Open Assistant: https://huggingface.co/datasets/OpenAssistant/oasst1
+  - Human-annotated assistant-style conversation corpus consisting of 161,443 messages distributed across 66,497 conversation trees, in 35 different languages, annotated with 461,292 quality ratings
 - databricks-dolly-15k: https://github.com/databrickslabs/dolly/tree/master/data
+- PRESTO: https://github.com/google-research-datasets/presto
+  - 550K contextual multilingual conversations between humans and virtual assistants
 - CrossFit: https://github.com/INK-USC/CrossFit
 - tasksource: https://arxiv.org/abs/2301.05948
 - ExMix: https://arxiv.org/abs/2111.10952
