@@ -42,7 +42,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - Instruction Tuning with GPT-4: https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
 - Guanaco: https://huggingface.co/datasets/JosephusCheung/GuanacoDataset
 - The LongForm Dataset: https://github.com/akoksal/LongForm/tree/main/dataset
-  - LLM instruction generation for a diverse set of corpus samples )27,739 instructions and long text pairs)
+  - LLM instruction generation for a diverse set of corpus samples (27,739 instructions and long text pairs)
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG
