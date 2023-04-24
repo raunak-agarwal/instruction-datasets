@@ -46,6 +46,8 @@ All available datasets for Instruction Tuning of Large Language Models
 - UltraChat: https://huggingface.co/datasets/stingning/ultrachat
 - LLaVA Visual Instruct 150K: https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K
   - GPT-generated multimodal instruction-following data
+- GPT4Tools: https://github.com/StevenGrove/GPT4Tools
+  - Instruction data to make API calls to several multi-modal models
 
 ### Preference Datasets (can be used to train the reward model)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
