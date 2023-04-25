@@ -48,6 +48,8 @@ All available datasets for Instruction Tuning of Large Language Models
   - GPT-generated multimodal instruction-following data
 - GPT4Tools: https://github.com/StevenGrove/GPT4Tools
   - Instruction data to make API calls to several multi-modal models
+- LaMini-Instruction: https://huggingface.co/datasets/MBZUAI/LaMini-instruction
+  - 2.58M pairs of instructions and responses
 
 ### Preference Datasets (can be used to train the reward model)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
