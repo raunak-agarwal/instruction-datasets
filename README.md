@@ -17,10 +17,13 @@ All available datasets for Instruction Tuning of Large Language Models
 - databricks-dolly-15k: https://github.com/databrickslabs/dolly/tree/master/data
 - PRESTO: https://github.com/google-research-datasets/presto
   - 550K contextual multilingual conversations between humans and virtual assistants
+- InstructCTG: https://github.com/MichaelZhouwang/InstructCTG
+  - Framework for controlled generation
 - CrossFit: https://github.com/INK-USC/CrossFit
 - tasksource: https://arxiv.org/abs/2301.05948
 - ExMix: https://arxiv.org/abs/2111.10952
 - VisualDialog: https://visualdialog.org/
+
 
 
 
@@ -51,6 +54,7 @@ All available datasets for Instruction Tuning of Large Language Models
   - Instruction data to make API calls to several multi-modal models
 - LaMini-Instruction: https://huggingface.co/datasets/MBZUAI/LaMini-instruction
   - 2.58M pairs of instructions and responses
+- Evol-Instruct 70k: https://github.com/nlpxucan/WizardLM
 
 ### Preference Datasets (can be used to train the reward model)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
