@@ -72,4 +72,5 @@ All available datasets for Instruction Tuning of Large Language Models
   - Superset of some of the datasets here
 - oa_leet10k: https://huggingface.co/datasets/ehartford/oa_leet10k
   - LeetCode problems solved in multiple programming languages
+- ProSocial Dialog: https://huggingface.co/datasets/allenai/prosocial-dialog
 - ConvoKit: https://convokit.cornell.edu/documentation/datasets.html
