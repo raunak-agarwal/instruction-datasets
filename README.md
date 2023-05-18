@@ -66,6 +66,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - Stanford Human Preferences Dataset (SHP): https://huggingface.co/datasets/stanfordnlp/SHP
   - 385K collective human preferences over responses to questions/instructions in 18 different subject areas
 - Stack Exchange Preferences: https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences
+- SLF5K: https://huggingface.co/datasets/JeremyAlain/SLF5K
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG
