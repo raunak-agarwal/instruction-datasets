@@ -68,9 +68,7 @@ All available datasets for Instruction Tuning of Large Language Models
   - 385K collective human preferences over responses to questions/instructions in 18 different subject areas
 - Stack Exchange Preferences: https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences
 - SLF5K: https://huggingface.co/datasets/JeremyAlain/SLF5K
--  qa-from-hf: https://arxiv.org/abs/2305.12473
-  - https://github.com/lil-lab/qa-from-hf
-- 
+-  qa-from-hf: https://github.com/lil-lab/qa-from-hf
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG
