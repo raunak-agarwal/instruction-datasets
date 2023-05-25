@@ -55,6 +55,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - LaMini-Instruction: https://huggingface.co/datasets/MBZUAI/LaMini-instruction
   - 2.58M pairs of instructions and responses
 - Evol-Instruct 70k: https://github.com/nlpxucan/WizardLM
+- Dynosaur: https://dynosaur-it.github.io/
 
 ### Preference Datasets (can be used to train the reward model)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
@@ -67,6 +68,9 @@ All available datasets for Instruction Tuning of Large Language Models
   - 385K collective human preferences over responses to questions/instructions in 18 different subject areas
 - Stack Exchange Preferences: https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences
 - SLF5K: https://huggingface.co/datasets/JeremyAlain/SLF5K
+-  qa-from-hf: https://arxiv.org/abs/2305.12473
+  - https://github.com/lil-lab/qa-from-hf
+- 
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG
@@ -75,3 +79,4 @@ All available datasets for Instruction Tuning of Large Language Models
   - LeetCode problems solved in multiple programming languages
 - ProSocial Dialog: https://huggingface.co/datasets/allenai/prosocial-dialog
 - ConvoKit: https://convokit.cornell.edu/documentation/datasets.html
+- CoT-Collection: https://github.com/kaist-lklab/CoT-Collection
