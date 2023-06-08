@@ -22,7 +22,9 @@ All available datasets for Instruction Tuning of Large Language Models
 - CrossFit: https://github.com/INK-USC/CrossFit
 - tasksource: https://arxiv.org/abs/2301.05948
 - ExMix: https://arxiv.org/abs/2111.10952
-- VisualDialog: https://visualdialog.org/
+- M3IT: https://huggingface.co/datasets/MMInstruction/M3IT
+  - https://arxiv.org/abs/2306.04387
+  - 2.4M multi-modal instances and 400 instructions across 40 tasks and 80 languages
 
 
 
