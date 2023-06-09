@@ -14,19 +14,22 @@ All available datasets for Instruction Tuning of Large Language Models
   -  1836 Tasks, 15m examples 
 - Open Assistant: https://huggingface.co/datasets/OpenAssistant/oasst1
   - Human-annotated assistant-style conversation corpus consisting of 161,443 messages distributed across 66,497 conversation trees, in 35 different languages, annotated with 461,292 quality ratings
+- LIMA: 1K high-quality instructions
+  - https://huggingface.co/datasets/GAIR/lima
 - databricks-dolly-15k: https://github.com/databrickslabs/dolly/tree/master/data
 - PRESTO: https://github.com/google-research-datasets/presto
   - 550K contextual multilingual conversations between humans and virtual assistants
+- BB3x: https://parl.ai/projects/bb3x/
 - InstructCTG: https://github.com/MichaelZhouwang/InstructCTG
-  - Framework for controlled generation
+  - Framework for controlled generation https://arxiv.org/abs/2304.14293
 - CrossFit: https://github.com/INK-USC/CrossFit
 - tasksource: https://arxiv.org/abs/2301.05948
 - ExMix: https://arxiv.org/abs/2111.10952
+- InstructEval: https://github.com/declare-lab/instruct-eval
 - M3IT: https://huggingface.co/datasets/MMInstruction/M3IT
   - https://arxiv.org/abs/2306.04387
   - 2.4M multi-modal instances and 400 instructions across 40 tasks and 80 languages
-
-
+- MIMIC-IT: Multi-Modal In-Context Instruction Tuning : https://arxiv.org/abs/2306.05425
 
 
 
