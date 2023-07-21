@@ -31,6 +31,7 @@ All available datasets for Instruction Tuning of Large Language Models
   - 2.4M multi-modal instances and 400 instructions across 40 tasks and 80 languages
 - MIMIC-IT: Multi-Modal In-Context Instruction Tuning : https://arxiv.org/abs/2306.05425
 - MultiInstruct: https://github.com/VT-NLP/MultiInstruct
+- COLLIE: https://github.com/princeton-nlp/Collie
 
 
 
