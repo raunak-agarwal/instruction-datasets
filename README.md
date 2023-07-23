@@ -34,6 +34,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - COLLIE: https://github.com/princeton-nlp/Collie
 - Mind2Web: Towards a Generalist Agent for the Web https://osu-nlp-group.github.io/Mind2Web/    
 - Android in the Wild: A Large-Scale Dataset for Android Device Control: https://github.com/google-research/google-research/tree/master/android_in_the_wild
+- FLASK: Fine-grained Language Model Evaluation Based on Alignment Skill Sets https://github.com/kaistAI/FLASK
 
 
 ### Generated using GPT 3.5/4
