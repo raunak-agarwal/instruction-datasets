@@ -91,3 +91,4 @@ All available datasets for Instruction Tuning of Large Language Models
 - ConvoKit: https://convokit.cornell.edu/documentation/datasets.html
 - CoT-Collection: https://github.com/kaist-lklab/CoT-Collection
 - DialogStudio: https://github.com/salesforce/DialogStudio
+- Chatbot Arena Conversations https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
