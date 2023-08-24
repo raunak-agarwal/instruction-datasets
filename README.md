@@ -68,6 +68,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - Alpaca-Farm: https://github.com/tatsu-lab/alpaca_farm
   - https://huggingface.co/datasets/tatsu-lab/alpaca_farm
 - ign_clean_instruct_dataset_500k: https://huggingface.co/datasets/ignmilton/ign_clean_instruct_dataset_500k
+- airoboros: https://github.com/jondurbin/airoboros
 
 ### Preference Datasets (can be used to train the reward model)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
