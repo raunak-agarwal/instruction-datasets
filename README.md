@@ -37,7 +37,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - FLASK: Fine-grained Language Model Evaluation Based on Alignment Skill Sets https://github.com/kaistAI/FLASK
 
 
-### Generated using GPT 3.5/4
+### Silver standard/Generated using LM
 
 - Self-Instruct: https://github.com/yizhongw/self-instruct
 - Unnatural Instructions: https://github.com/orhonovich/unnatural-instructions
@@ -69,6 +69,7 @@ All available datasets for Instruction Tuning of Large Language Models
   - https://huggingface.co/datasets/tatsu-lab/alpaca_farm
 - ign_clean_instruct_dataset_500k: https://huggingface.co/datasets/ignmilton/ign_clean_instruct_dataset_500k
 - airoboros: https://github.com/jondurbin/airoboros
+- UltraFeedback: https://huggingface.co/datasets/openbmb/UltraFeedback
 
 ### Preference Datasets (can be used to train the reward model)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
