@@ -35,6 +35,8 @@ All available datasets for Instruction Tuning of Large Language Models
 - Mind2Web: Towards a Generalist Agent for the Web https://osu-nlp-group.github.io/Mind2Web/    
 - Android in the Wild: A Large-Scale Dataset for Android Device Control: https://github.com/google-research/google-research/tree/master/android_in_the_wild
 - FLASK: Fine-grained Language Model Evaluation Based on Alignment Skill Sets https://github.com/kaistAI/FLASK
+- Safe-RLHF: https://arxiv.org/abs/2310.12773
+  - https://arxiv.org/pdf/2310.12773.pdf#https%3A//github.com/PKU-Alignment/safe-rlhf
 
 
 ### Silver standard/Generated using LM
