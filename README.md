@@ -96,3 +96,4 @@ All available datasets for Instruction Tuning of Large Language Models
 - DialogStudio: https://github.com/salesforce/DialogStudio
 - Chatbot Arena Conversations https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
 - lmsys 1M: https://huggingface.co/datasets/lmsys/lmsys-chat-1m
+- Conversation Chronicles: https://conversation-chronicles.github.io/
