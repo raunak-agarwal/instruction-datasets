@@ -71,6 +71,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - airoboros: https://github.com/jondurbin/airoboros
 - UltraFeedback: https://huggingface.co/datasets/openbmb/UltraFeedback
 - WildChat: Corpus of 570K real-world user-ChatGPT interactions https://wildchatdataset.com/
+- Feedback Collection: https://huggingface.co/datasets/kaist-ai/Feedback-Collection
 
 ### Preference Datasets (can be used to train the reward model)
 - HH-RLHF: https://huggingface.co/datasets/Anthropic/hh-rlhf
