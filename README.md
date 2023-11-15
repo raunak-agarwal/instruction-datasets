@@ -72,7 +72,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - ign_clean_instruct_dataset_500k: https://huggingface.co/datasets/ignmilton/ign_clean_instruct_dataset_500k
 - airoboros: https://github.com/jondurbin/airoboros
 - UltraFeedback: https://huggingface.co/datasets/openbmb/UltraFeedback
-- WildChat: Corpus of 570K real-world user-ChatGPT interactions https://wildchatdataset.com/
+- WildChat: Corpus of 570K real-world user-ChatGPT interactions https://wildchat.allen.ai/
 - Feedback Collection: https://arxiv.org/abs/2310.08491
   - https://huggingface.co/datasets/kaist-ai/Feedback-Collection
 
