@@ -37,6 +37,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - FLASK: Fine-grained Language Model Evaluation Based on Alignment Skill Sets https://github.com/kaistAI/FLASK
 - Safe-RLHF: https://arxiv.org/abs/2310.12773
   - https://arxiv.org/pdf/2310.12773.pdf#https%3A//github.com/PKU-Alignment/safe-rlhf
+- HelpSteer: https://huggingface.co/datasets/nvidia/HelpSteer 
 
 
 ### Silver standard/Generated using LM
