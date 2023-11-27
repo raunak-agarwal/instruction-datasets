@@ -88,6 +88,7 @@ All available datasets for Instruction Tuning of Large Language Models
 - Stack Exchange Preferences: https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences
 - SLF5K: https://huggingface.co/datasets/JeremyAlain/SLF5K
 -  qa-from-hf: https://github.com/lil-lab/qa-from-hf
+-  Nectar: https://huggingface.co/datasets/berkeley-nest/Nectar
 
 ### Misc
 - OIG: https://huggingface.co/datasets/laion/OIG
